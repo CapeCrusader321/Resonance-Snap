@@ -28,7 +28,7 @@ apps:
       - optical-drive
       - removable-media
     common-id: io.github.nate_xyz.Resonance
-    desktop: usr/share/applications/.github.nate_xyz.Resonance.desktop
+    desktop: usr/share/applications/io.github.nate_xyz.Resonance.desktop
     
     
 parts:
