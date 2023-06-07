@@ -1,6 +1,6 @@
 name: resonance
 base: core22
-version: 'alpha'
+version: 0.1.3
 adopt-info: resonance
 grade: stable
 confinement: strict
