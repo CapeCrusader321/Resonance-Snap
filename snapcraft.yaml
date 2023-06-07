@@ -35,7 +35,7 @@ parts:
   resonance:
     source: https://github.com/nate-xyz/resonance.git
     plugin: meson
-    parse-info: [usr/share/metainfo/io.github.nate_xyz.Resonance.appdata.xml]
+    parse-info: [usr/share/appdata/io.github.nate_xyz.Resonance.appdata.xml]
     meson-parameters:
       - --prefix=/usr
     build-packages:
