@@ -45,6 +45,9 @@ parts:
       - libgstreamer-plugins-base1.0-dev 
       - libgstreamer1.0-dev
       - cargo
+      - libssl-dev
+      - libssl3 
+      - openssl
     stage-packages:
       - python3-loguru 
       - python3-mutagen 
