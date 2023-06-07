@@ -44,6 +44,7 @@ parts:
       - libgstreamer-plugins-bad1.0-dev 
       - libgstreamer-plugins-base1.0-dev 
       - libgstreamer1.0-dev
+      - cargo
     stage-packages:
       - python3-loguru 
       - python3-mutagen 
